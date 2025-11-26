@@ -1,0 +1,5 @@
+twelvedata
+pandas
+numpy
+python-dotenv
+requests
